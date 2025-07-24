@@ -146,8 +146,8 @@ STATIC_ROOT = BASE_DIR / 'staticfiles'  # ✅ Where collectstatic copies static 
 
 
 MEDIA_URL = '/images/'
-# for user uploaded content
-MEDIA_ROOT = BASE_DIR / 'static/images'  # it tells django where to store the media files or user uploaded files
+MEDIA_ROOT = BASE_DIR / 'images'
+
 
 
 # Default primary key field type
