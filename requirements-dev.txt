@@ -1,0 +1,12 @@
+# Development only
+jupyter
+notebook
+htmlmin
+tensorflow
+opencv-python
+imutils
+pandas-profiling
+pywin32
+matplotlib
+ipykernel
+scipy
