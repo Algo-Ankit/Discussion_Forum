@@ -1,0 +1,1 @@
+web: gunicorn devhub.wsgi
