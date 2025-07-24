@@ -140,9 +140,6 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-STATICFILES_DIRS = [
-    BASE_DIR / 'static',  # ✅ Make sure 'static/' exists with subfolders like style/, js/, etc.
-]
 
 STATIC_ROOT = BASE_DIR / 'staticfiles'  # ✅ Where collectstatic copies static files
 
