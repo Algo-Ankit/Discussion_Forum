@@ -2,7 +2,6 @@
 
 DevHub is a feature-rich web application built with Django that enables developers and tech enthusiasts to discuss, post questions, and share knowledge in a collaborative environment. It supports user registration, post creation, threaded discussions, and seamless moderation features.
 
----
 
 ## 🚀 Features
 
@@ -15,7 +14,6 @@ DevHub is a feature-rich web application built with Django that enables develope
 - 🌐 **Responsive UI** – Tailwind CSS-powered frontend
 - 🌩️ **Deployed on Render** – Cloud-hosted with automatic deploys from GitHub
 
----
 
 ## 🛠 Tech Stack
 
@@ -37,3 +35,14 @@ DevHub is a feature-rich web application built with Django that enables develope
 ```bash
 git clone https://github.com/<your-username>/DevHub.git
 cd DevHub
+
+# For Windows
+python -m venv env
+env\Scripts\activate
+
+# For Mac/Linux
+python3 -m venv env
+source env/bin/activate
+#Install Dependencies
+pip install -r requirements.txt
+
