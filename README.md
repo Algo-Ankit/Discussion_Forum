@@ -1,8 +1,8 @@
 # 🧠 DevHub — A Developer Discussion Forum
 
 DevHub is a feature-rich web application built with Django that enables developers and tech enthusiasts to discuss, post questions, and share knowledge in a collaborative environment. It supports user registration, post creation, threaded discussions, and seamless moderation features.
-
-
+website hosted on :
+https://devhub-28rg.onrender.com/
 ## 🚀 Features
 
 - 🔐 **User Authentication** – Register, login, logout
